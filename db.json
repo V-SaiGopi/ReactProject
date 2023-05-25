@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Glenna Richard",
+      "sex": "F",
+      "dob": "1990-10-10",
+      "salary": "56000",
+      "department": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Sumanth Hawk",
+      "sex": "M",
+      "dob": "1996-10-15",
+      "salary": "70002",
+      "department": "Accounts"
+    },
+    {
+      "id": 4,
+      "name": "Ashish Varma",
+      "sex": "M",
+      "dob": "1998-06-23",
+      "salary": "90000",
+      "department": "HR"
+    },
+    {
+      "id": 7,
+      "name": "Sai Gopi",
+      "sex": "M",
+      "dob": "2000-08-07",
+      "salary": "70000",
+      "department": "Sales"
+    },
+    {
+      "name": "Alexa Costa",
+      "sex": "F",
+      "dob": "1996-07-10",
+      "salary": "55000",
+      "department": "HR",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Hawk xd",
+      "sex": "M",
+      "dob": "1996-05-14",
+      "salary": "60000",
+      "department": "Accounts"
+    },
+    {
+      "name": "Sabastian Norte",
+      "sex": "M",
+      "dob": "1995-05-19",
+      "salary": "56000",
+      "department": "Sales",
+      "id": 11
+    },
+    {
+      "name": "Virat kohli",
+      "sex": "M",
+      "dob": "1992-10-17",
+      "salary": "100000",
+      "department": "Accounts",
+      "id": 12
+    },
+    {
+      "name": "Glen bracey",
+      "sex": "F",
+      "dob": "1999-06-09",
+      "salary": "40000",
+      "department": "Sales",
+      "id": 13
+    },
+    {
+      "name": "divya",
+      "sex": "F",
+      "dob": "2001-05-17",
+      "salary": "28000",
+      "department": "Accounts",
+      "id": 14
+    }
+  ]
+}
